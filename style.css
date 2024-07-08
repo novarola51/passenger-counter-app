@@ -1,0 +1,21 @@
+body {
+  background-image: url(station.jpeg);
+  background-size: cover;
+  font-weight: bold;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+botton {
+}
